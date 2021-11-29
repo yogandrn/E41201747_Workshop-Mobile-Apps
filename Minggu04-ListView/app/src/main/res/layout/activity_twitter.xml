@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:padding="20dp"
+    tools:context=".Activity_Twitter">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="100dp"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="80dp"
+            android:layout_height="80dp"
+            android:layout_marginRight="12dp"
+            android:src="@drawable/logo_twitter"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="80dp"
+            android:padding="10dp"
+            android:text="Twitter"
+            android:gravity="center"
+            android:textColor="@color/black"
+            style="@style/TextAppearance.AppCompat.Display1"/>
+
+    </LinearLayout>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. "
+        android:gravity="left"
+        android:layout_margin="12dp"
+        style="@style/TextAppearance.AppCompat.Title"/>
+
+</LinearLayout>

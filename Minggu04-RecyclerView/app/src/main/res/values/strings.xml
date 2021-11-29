@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Recycler View</string>
+    <string name="pengembang_fb">Pendiri : Mark Zuckerberg</string>
+    <string name="tahun_fb">Didirikan : 4 Februari 2004</string>
+    <string name="deskripsi_fb">Facebook, Inc. adalah sebuah layanan jejaring sosial berkantor pusat di Menlo Park, California, Amerika Serikat yang diluncurkan pada bulan Februari 2004.Facebook didirikan oleh Mark Zuckerberg bersama teman sekamarnya dan sesama mahasiswa Universitas Harvard, Eduardo Saverin, Andrew McCollum, Dustin Moskovitz, dan Chris Hughes.</string>
+    <string name="pengembang_ig">Pengembang : Facebook, Inc.</string>
+    <string name="tahun_ig">Rilis Perdana : 6 Oktober 2010</string>
+    <string name="deskripsi_ig">Instagram (disingkat IG atau Insta) adalah sebuah aplikasi berbagi foto dan video yang memungkinkan pengguna mengambil foto, mengambil video, menerapkan filter digital, dan membagikannya ke berbagai layanan jejaring sosial, termasuk milik Instagram sendiri. Instagram dapat digunakan di perangkat Android, iOS, maupun Windows Phone.</string>
+    <string name="pengembang_firefox">Pengembang : Mozilla Foundation</string>
+    <string name="tahun_firefox">Rilis Perdana : 9 November 2004</string>
+    <string name="deskripsi_firefox">Mozilla Firefox, atau Firefox adalah peramban web lintas platform bebas dan sumber terbuka yang dikembangkan oleh Yayasan Mozilla dan ratusan sukarelawan.Sebelum rilis versi 1.0-nya pada 9 November 2004, Firefox telah mendapatkan sambutan yang sangat bagus dari pihak media. Dengan lebih dari 5 juta unduhan dalam 12 hari pertama rilisnya dan 6 juta hingga 24 November 2004, Firefox 1.0 adalah salah satu perangkat lunak bebas, sumber terbuka (open-source) yang paling banyak digunakan di antara pengguna rumahan</string>
+    <string name="pengembang_yt">Pengembang : Google Inc.</string>
+    <string name="tahun_yt">Didirikan : 14 February 2005</string>
+    <string name="deskripsi_yt">YouTube adalah sebuah situs web berbagi video yang dibuat oleh tiga mantan karyawan PayPal pada Februari 2005. Situs web ini memungkinkan pengguna mengunggah, menonton, dan berbagi video. Perusahaan ini berkantor pusat di San Bruno, California, Amerika Serikat.</string>
+    <string name="pengembang_tiktok">Pengembang : Tuotiao, ByteDance</string>
+    <string name="tahun_tiktok">Rilis Perdana : September 2015</string>
+    <string name="deskripsi_tiktok">TikTok adalah sebuah jaringan sosial dan platform video musik yang dluncurkan pada September 2016 oleh Zhang Yiming, pendiri Toutiao. Aplikasi tersebut membolehkan para pemakai untuk membuat video musik pendek mereka sendiri.</string>
+    <string name="pengembang_wa">Pengembang : WhatsApp Inc.</string>
+    <string name="tahun_wa">Rilis Perdana : 2009</string>
+    <string name="deskripsi_wa">WhatsApp Messenger adalah aplikasi pesan untuk ponsel cerdas. WhatsApp Messenger merupakan aplikasi pesan lintas platform yang memungkinkan kita bertukar pesan tanpa pulsa, karena WhatsApp Messenger menggunakan paket data internet. Aplikasi WhatsApp Messenger menggunakan koneksi internet 3G, 4G atau WiFi untuk komunikasi data. Dengan menggunakan WhatsApp, kita dapat melakukan obrolan daring, berbagi file, bertukar foto, dan lain-lain.</string>
+</resources>

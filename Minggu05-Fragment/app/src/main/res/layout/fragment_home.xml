@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--desain fragment untuk menu Home-->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="0dp"
+    android:padding="0dp"
+    tools:context=".HomeFragment">
+
+    <!-- TODO: Update blank fragment layout -->
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:id="@+id/profil_headline"
+            android:layout_width="match_parent"
+            android:layout_height="86dp"
+            android:layout_marginBottom="20dp"
+            android:background="#6200ed"
+            android:gravity="center">
+
+            <ImageView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_margin="14dp"
+                android:src="@drawable/search" />
+
+        </LinearLayout>
+
+        <ImageView
+            android:layout_width="323dp"
+            android:layout_height="325dp"
+            android:layout_gravity="center"
+            android:src="@drawable/btn_menu" />
+
+        <ImageView
+            android:layout_width="320dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            android:src="@drawable/headline1" />
+
+        <ImageView
+            android:layout_width="320dp"
+            android:layout_height="130dp"
+            android:layout_gravity="center"
+            android:src="@drawable/headline2"
+            android:layout_marginBottom="12dp"/>
+
+    </LinearLayout>
+
+
+</FrameLayout>
